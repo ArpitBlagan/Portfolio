@@ -1,0 +1,22 @@
+[
+        {
+            "name":"Data structure and Algorithm",
+            "image":"https://e7.pngegg.com/pngimages/403/981/png-clipart-dijkstra-s-algorithm-analysis-of-algorithms-data-structure-a-search-algorithm-youku-thumbnail.png"
+        },
+        {
+            "name":"React-JS",
+            "image":"https://kobaltsolutions.com/wp-content/uploads/2021/04/Screen-Shot-2021-04-08-at-4.06.03-PM.png"
+        },{
+            "name":"Git and Github",
+            "image":"https://git-scm.com/images/logos/1color-lightbg@2x.png"
+        },{
+            "name":"Firebase",
+            "image":"https://git-scm.com/images/logos/1color-lightbg@2x.png"
+        },{
+            "name":"C++",
+            "image":"https://cdn-icons-png.flaticon.com/512/74/74897.png"
+        },{
+            "name":"Reduxjs/toolkit",
+            "image":"https://hybridheroes.de/blog/content/images/2022/03/redux-toolkit-1400.jpg"
+        }
+]
